@@ -15,7 +15,7 @@ body{
     color: cornsilk;
     width: 20%;
     float: left;
-    text-align: center;
+    text-align: left;
     line-height: 70px;
 }
 a{
@@ -118,4 +118,7 @@ img{
 }
 #icon{
     margin: 10px;
+}
+#i1{
+    float: left;
 }
